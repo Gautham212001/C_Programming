@@ -17,6 +17,7 @@ int main()
       rev = rev*10 + rmndr;
       number = number/10;
    }
+   // Changes
    printf("\nReversed number: %d", rev);
 
    if(t == rev)
